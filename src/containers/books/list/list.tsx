@@ -34,8 +34,6 @@ export default function List() {
     handleRemove,
     handleSearch,
   } = useAction();
-
-    
     
     const renderLoading = () => {
         return (
